@@ -1,6 +1,7 @@
 # Stripe Clone Project
 
 This is a simple Stripe webpage clone coded in React here is a screenshot of the page:
+
 ![Screenshot of Stripe Clone Website](./src/images/Stripe%20Clone.png)
 
 
